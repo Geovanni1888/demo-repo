@@ -1,3 +1,3 @@
  # Demo 
  
- discribshn of the repository.
+ discription of the repository.
